@@ -18,3 +18,14 @@ header("X-XSS-Protection: 1; mode=block");
     
     
     <label class="control-label"><?php echo $ui_string['re_password']; ?></label>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    $cursor->limit( intval($input['iDisplayLength']) )->skip( intval($input['iDisplayStart']) );
