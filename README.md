@@ -64,3 +64,39 @@ $new_password = md5($_REQUEST['pwd']);
 58a1f24268f66c8948e84f81f97c9d4c : superadmin password
 
 25d55ad283aa400af464c76d713c07ad: shubham password
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+file changed
+
+
+//<form id="form-signin" class="form-signin" method="post" action="" enctype="multipart/form-data">
+
+
+<label class="control-label"><?php echo $ui_string['password']; ?></label>	
+
+
+
+
+$cursor->limit( $input['iDisplayLength'] )->skip( $input['iDisplayStart'] );
+
+
+
+
+ $data['password'] = $password;
+
+
+ shubham@m2rtechnomations.com
+
+shubham@m2rtechnomations.com
+
+associates\shubham.rpa
+
+nikky_m2r
