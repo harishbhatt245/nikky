@@ -11,3 +11,7 @@ php_value session.cookie_httponly 1
 
 
 header("X-XSS-Protection: 1; mode=block");
+
+
+
+<form id="form-signin" class="form-signin" method="post" autocomplete="off" requireSSL="true" action="" enctype="multipart/form-data">
