@@ -29,3 +29,35 @@ header("X-XSS-Protection: 1; mode=block");
     
     
     $cursor->limit( intval($input['iDisplayLength']) )->skip( intval($input['iDisplayStart']) );
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     $data['password'] = md5($password);
+
+$old_password = md5($old_password);
+
+$new_password = md5($new_password);
+
+$password = md5($password);
+
+
+$password = md5($password);
+
+
+$new_password = md5($_REQUEST['pwd']);
+    
+    
+    
+    
+    
