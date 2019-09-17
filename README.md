@@ -15,3 +15,6 @@ header("X-XSS-Protection: 1; mode=block");
 
 
 <form id="form-signin" class="form-signin" method="post" autocomplete="off" requireSSL="true" action="" enctype="multipart/form-data">
+    
+    
+    <label class="control-label"><?php echo $ui_string['re_password']; ?></label>
