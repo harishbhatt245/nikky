@@ -35,7 +35,7 @@ header("X-XSS-Protection: 1; mode=block");
     
     
     
-    
+    SSLProtocol ALL -SSLv2 -SSLv3 -TLSv1 -TLSv1.1
     
     
     
